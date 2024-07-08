@@ -50,7 +50,16 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## Screenshots
 
+*Empty todolist *
+![Screenshot 1](main.png) <!-- Replace 'images/screenshot1.png' with your screenshot -->
+
+*Todo list created *
+![Screenshot 2](add.png) <!-- Replace 'images/screenshot2.png' with your screenshot -->
+
+*deleted one task from todolist *
+![Screenshot 2](delete.png)
 
 
 
